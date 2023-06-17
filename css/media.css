@@ -1,0 +1,21 @@
+@media only screen
+and (max-width: 360px) {
+
+    .more-info a {
+        width: 115px;
+    }
+
+    .date-info {
+        flex-direction: column;
+        gap: 15px;
+        margin: 50px 0;
+    }
+    
+    .full-date {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+    }
+    
+}

@@ -249,7 +249,7 @@ section p{
     border: 1px solid var(--border);
 }
 
-.colors div:first-child {
+/* .colors div:first-child {
     background: var(--color1);
 }
 
@@ -263,14 +263,10 @@ section p{
 
 .colors div:nth-child(4) {
     background: var(--color4);
-}
+} */
 
 .colors div:last-child {
     background: var(--color5);
-}
-
-.map {
-    
 }
 
 .map-border {
